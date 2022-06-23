@@ -1,0 +1,2 @@
+#!/bin/bash
+file -ms --parameter School=SCHOOL school.magic
