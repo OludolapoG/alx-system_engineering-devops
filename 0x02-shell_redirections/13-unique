@@ -1,2 +1,2 @@
 #!/bin/bash
-sort word-list | uniq -u
+cat word-list | sort | uniq -u
