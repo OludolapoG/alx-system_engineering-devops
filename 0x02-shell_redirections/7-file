@@ -1,2 +1,4 @@
 #!/bin/bash
-echo "Best School" > \\*\\\"\'""Best School"\'\\\*\$\\?\\*\\*\\*\\*\\*:\) #\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+echo -e "Best School" > \\\*\\\\"'\"Best School\"\\'"\\\\\*\$\\\?\\\*\\\*\\\*\\\*\\\*\:\) 
+#"corect text" \\\*\\\\"'\"Holberton School\"\\'"\\\\\*\$\\\?\\\*\\\*\\\*\\\*\\\*\:\)
+#OG output \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
